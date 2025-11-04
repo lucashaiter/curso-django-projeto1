@@ -1,0 +1,6 @@
+--> Códigos de status de respostas HTTP
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Status
+
+--> Métodos de requisição HTTP
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods
+
